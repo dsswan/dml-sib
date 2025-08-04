@@ -35,3 +35,5 @@
 #### ОС Windows
 [04.01.01. ОС Windows. Часть 1](04.IBOS/04.01.01.SIB.HW.md)  
 [04.01.02. ОС Windows. Часть 2](04.IBOS/04.01.02.SIB.HW.md)  
+#### ОС Linux
+[04.02.01. ОС Linux. Часть 1](04.IBOS/04.02.01.SIB.HW.md)  
