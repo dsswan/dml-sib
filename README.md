@@ -76,3 +76,4 @@
 [09.01.02. Windows Hardening](09.IBDEF/09.01.02.SIB.HW.md)
 #### Active Directory
 [09.02.01. Active Directory (часть 1)](09.IBDEF/09.02.01.SIB.HW.md)  
+[09.02.02. Active Directory (часть 2)](09.IBDEF/09.02.02.SIB.HW.md)  
