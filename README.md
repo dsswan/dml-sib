@@ -73,4 +73,6 @@
 ### 09. Аttack & Defence
 #### Linux & Windows Hardening
 [09.01.01. Linux Hardening](09.IBDEF/09.01.01.SIB.HW.md)  
-[09.01.02. Windows Hardening](09.IBDEF/09.01.02.SIB.HW.md)  
+[09.01.02. Windows Hardening](09.IBDEF/09.01.02.SIB.HW.md)
+#### Active Directory
+[09.02.01. Active Directory (часть 1)](09.IBDEF/09.02.01.SIB.HW.md)  
