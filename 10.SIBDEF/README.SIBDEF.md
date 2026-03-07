@@ -14,7 +14,7 @@
 - [Сканирование NMap](10.02.Scanning.md#Сканирование%20NMap)
 - [Сканирование WhatWeb + Nikto + Gobuster + ZAP](10.02.Scanning.md#Сканирование%20WhatWeb%20+%20Nikto%20+%20Gobuster%20+%20ZAP)
 - [Цель: Порт 8050](10.02.Scanning.md#Цель%20Порт%208050)
-- [Цель: Порт 8050](10.02.Scanning.md#Цель%20Порт%208050)
+- [Цель: Порт 7788](10.02.Scanning.md#Цель%20Порт%207788)
 - [Вывод по результатам сканирования](10.02.Scanning.md#Вывод%20по%20результатам%20сканирования)
 ### [Этап 3. Testing](10.03.Testing.md)
 - [NetologyVulnApp (8050)](10.03.Testing.md#NetologyVulnApp%20(8050))
