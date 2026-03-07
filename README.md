@@ -81,3 +81,4 @@
 [09.03.01. Мониторинг событий безопасности (Suricata)](09.IBDEF/09.03.01.SIB.HW.md)  
 [09.03.02. Penetration Testing. Часть 1](09.IBDEF/09.03.02.SIB.HW.md)  
 [09.03.03. Penetration Testing. Часть 2](09.IBDEF/09.03.03.SIB.HW.md)  
+#### [Дипломная работа по профессии «Специалист по информационной безопасности»](10.SIBDEF/README.SIBDEF.md)
