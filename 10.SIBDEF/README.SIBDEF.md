@@ -25,7 +25,7 @@
 - [NetologyVulnApp (8050)](10.03.Testing.md#netologyvulnapp-8050)
     - [Эксплуатация SQL Injection (CWE-89)](10.03.Testing.md#эксплуатация-sql-injection-cwe-89)
     - [Эксплуатация Stored XSS на странице гостевой книги (CWE-79)](10.03.Testing.md#эксплуатация-stored-xss-на-странице-гостевой-книги-cwe-79)
-    - [Эксплуатация Stored XSS в комментариях к изображениям (CWE-79)](10.03.Testing.md#Ээксплуатация-stored-xss-в-комментариях-к-изображениям-cwe-79)
+    - [Эксплуатация Stored XSS в комментариях к изображениям (CWE-79)](10.03.Testing.md#эксплуатация-stored-xss-в-комментариях-к-изображениям-cwe-79)
     - [Эксплуатация Reflected XSS в форме поиска (CWE-79)](10.03.Testing.md#эксплуатация-reflected-xss-в-форме-поиска-cwe-79)
     - [Эксплуатация File Upload и получение Remote Code Execution (CWE-434)](10.03.Testing.md#эксплуатация-file-upload-и-получение-remote-code-execution-cwe-434)
     - [Эксплуатация Local File Inclusion (CWE-98 потенциальная)](10.03.Testing.md#эксплуатация-local-file-inclusion-cwe-98-потенциальная)
