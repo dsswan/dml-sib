@@ -6,7 +6,7 @@
 ## Выполнение тестирования
 ### [Этап 1. OSINT](10.01.OSINT.md)
 - [Используемые инструменты](10.01.OSINT.md#Используемые%20инструменты)
-- [Сервис shodan.io](10.01.OSINT.md#Сервис%20shodan.io)
+- [Сервис shodan.io](10.01.OSINT.md#сервис-shodan.io)
 - [Google Dorking](10.01.OSINT.md#Google%20Dorking)
 - [Итоги OSINT - разведки](10.01.OSINT.md#Итоги%20OSINT%20-%20разведки)
 ### [Этап 2. Scanning](10.02.Scanning.md)
@@ -27,7 +27,7 @@
 - [Beemer (7788)](10.03.Testing.md#Beemer%20(7788))
     - [Эксплуатация SQL Injection (CWE-89)](10.03.Testing.md#Эксплуатация%20уязвимости%20SQL%20Injection%20(CWE-89)) 
     - [Эксплуатация DOM-based XSS (CWE-79)](10.03.Testing.md#Отчет%20по%20эксплуатации%20уязвимости%20DOM-based%20XSS%20(CWE-79))
-    - [Эксплуатация устаревших JavaScript-библиотек (CWE-1395)](10.03.Testing.md#Эксплуатация%20устаревших%20JavaScript-библиотек%20(CWE-1395))
+    - [Эксплуатация устаревших JavaScript-библиотек (CWE-1395)](10.03.Testing.md#эксплуатация-устаревших-javascript-библиотек-(cwe-1395))
     - [Эксплуатация Path Traversal (CWE-22)](10.03.Testing.md#Эксплуатация%20Path%20Traversal%20(CWE-22))
     - [Эксплуатация Remote OS Command Injection (CWE-78)](10.03.Testing.md#Эксплуатация%20Remote%20OS%20Command%20Injection%20(CWE-78))
 
